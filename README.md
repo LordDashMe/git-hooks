@@ -1,10 +1,10 @@
 # Git Hooks
 
-A collection of GIT hooks scripts and integration.
+A collection of GIT hooks with external service integration.
 
-## Sample Scripts
+## Sample Templates
 
-**Note**: Most of the sample hooks scripts is using ```sh``` but you can use other programming languages too, just properly convert it to your desired programming language.
+**Note**: Most of the sample hooks are using ```sh``` but you can use other programming languages too, just properly convert it to your desired programming language.
 
 - [Using Slack](slack/)
 
